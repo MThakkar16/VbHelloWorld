@@ -1,1 +1,9 @@
 C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\bin\Debug\VbHelloWorld.exe.config
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\bin\Debug\VbHelloWorld.exe
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\bin\Debug\VbHelloWorld.pdb
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\bin\Debug\VbHelloWorld.xml
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\obj\Debug\VbHelloWorld.Resources.resources
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\obj\Debug\VbHelloWorld.vbproj.GenerateResource.Cache
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\obj\Debug\VbHelloWorld.exe
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\obj\Debug\VbHelloWorld.xml
+C:\Users\JVO\Documents\Projects\VbHelloWorld\VbHelloWorld\obj\Debug\VbHelloWorld.pdb
