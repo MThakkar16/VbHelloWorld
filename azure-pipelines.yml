@@ -8,6 +8,8 @@ trigger:
 
 pool:
   vmImage: 'windows-latest'
+  name: Test_Acceleration_Enablement
+  agent: AJ002894
 
 variables:
   solution: '**/*.sln'
@@ -33,6 +35,7 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: RunFromFileSystemTask@1
+- task: uftpublisher.UFT-Azure-extension.custom-build-task-4.RunFromFileSystemTask@1
+  displayName: RunFromFileSystemTask
   inputs:
-    testPathInput: 'C:\Automation Framework\TestScripts\OUA\'
+    testPathInput: 'C:\Users\MThakkar\TAE Automation\TestScripts\ADO'
